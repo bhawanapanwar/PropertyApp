@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PropertyTestApp</string>
+
+    <string name="internet">Please check your internet connection!</string>
+</resources>
